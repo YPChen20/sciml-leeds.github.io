@@ -379,3 +379,13 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+    
+- name: Yunpeng Chen
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/9847/yunpeng-chen
+    github: YPChen20
+  techniques:
+    - Physics informed neural network
+  applications:
+    - Soving wave equation
+    - Seismic tomography
